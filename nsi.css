@@ -1,16 +1,26 @@
 .img-head{ display: flex;
     align-self:center;
 }
+.head{
+    background-color: rgb(25,25,25);
+}
 
-
-
+.mar{
+    color: white;
+}
 
 .button{
     display: flex;
     border: 0ch;
+    
+}
+button{
+    background-color: rgb(25,25,25);
 }
 
-
+.logo{
+    background-color: rgb(25,25,25);
+}
    
 
 
