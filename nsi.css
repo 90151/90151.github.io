@@ -34,7 +34,23 @@ b{
     color:black ;
 }
 
-
+.title{
+    color: aliceblue;
+    
+    
+}
+.文章{
+    font-size: 0.35cm;
+}
+.圖片{
+    font-size: 0.35cm;
+}
+.影片{
+    font-size: 0.35cm;
+}
+.新聞資料{
+    font-size: 0.35cm;
+}
 
 .宗旨:hover{
     background-color:gray ;
